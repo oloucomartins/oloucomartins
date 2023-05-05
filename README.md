@@ -41,10 +41,9 @@ src="https://img.shields.io/github/followers/oloucomartins?logo=github&style=for
 
 <p align="left"> 
 
-<a href="discord.com/channels/Oloucomartins#5996" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/oloucomartins" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/gabriel-martins-ba2972169/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.stackoverflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
+<a href="https://www.stackoverflow.com/users/21825675/gabriel-martins" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
 <a href="https://www.youtube.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
