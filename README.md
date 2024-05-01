@@ -4,7 +4,7 @@ Hi 👋 My name is Gabriel
 Full Stack Software Developer
 -----------------------------
 
-I'm a 22-year-old developer and I've been working in the area of ​​programming for process automation since 2017.
+I'm a 23-year-old developer and I've been working in the area of ​​programming for process automation since 2017.
 My main focus is front and back-end development, making applications that positively impact the lives of thousands of users.
 
 I also graduated in mechatronics technician at ETEC and currently a student of systems analysis and development at the uncomplicated college..
