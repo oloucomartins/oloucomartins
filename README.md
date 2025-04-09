@@ -7,11 +7,17 @@ I'm a 24-year-old developer specialized in creating intuitive and high-performan
 I graduated as a Mechatronics Technician from ETEC and I'm currently pursuing a degree in Systems Analysis and Development at Faculdade Descomplica.
 
 🌍 Based in Sertãozinho-SP, Brazil
+
 ✉️ Contact: gabrielpmartins23@gmail.com
+
 🚀 Currently working at Autpro
+
 🧠 Learning: Advanced JavaScript, Unit Testing, and C/C++ programming
+
 🤝 Open to collaborating on impactful and meaningful projects
+
 ⚡ Passionate about sports — especially bodybuilding
+
 
 <a href="https://www.github.com/oloucomartins" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/oloucomartins?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
