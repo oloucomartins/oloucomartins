@@ -1,20 +1,17 @@
 Hi 👋 My name is Gabriel
 ==========================
 
-Full Stack Software Developer
------------------------------
+Frontend Developer & UI/UX Designer
+I'm a 24-year-old developer specialized in creating intuitive and high-performance interfaces. Since 2017, I've been working in the field of programming for process automation, with a strong focus on frontend and UI/UX design, developing applications that positively impact the lives of thousands of users.
 
-I'm a 23-year-old developer and I've been working in the area of ​​programming for process automation since 2017.
-My main focus is front and back-end development, making applications that positively impact the lives of thousands of users.
+I graduated as a Mechatronics Technician from ETEC and I'm currently pursuing a degree in Systems Analysis and Development at Faculdade Descomplica.
 
-I also graduated in mechatronics technician at ETEC and currently a student of systems analysis and development at the uncomplicated college..
-
-* 🌍  I'm based in Sertãozinho-SP, Brazil.
-* ✉️  You can contact me at [gabrielpmartins23@gmail.com].
-* 🚀  I'm currently working on [Autpro](www.autpro.com.br).
-* 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages.
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives.
-* ⚡  I love sports and my favorite is bodybuilding.
+🌍 Based in Sertãozinho-SP, Brazil
+✉️ Contact: gabrielpmartins23@gmail.com
+🚀 Currently working at Autpro
+🧠 Learning: Advanced JavaScript, Unit Testing, and C/C++ programming
+🤝 Open to collaborating on impactful and meaningful projects
+⚡ Passionate about sports — especially bodybuilding
 
 <a href="https://www.github.com/oloucomartins" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/oloucomartins?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
